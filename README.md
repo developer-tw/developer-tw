@@ -24,6 +24,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-tw&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Develpoer-tw's Github Stats">
 
 </br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=developer-tw)](https://github.com/developer-tw/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-tw&bg_color=3f4f88&color=f3ecf2&line=ffffff&point=25b65d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
