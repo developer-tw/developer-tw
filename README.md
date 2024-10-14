@@ -1,3 +1,4 @@
+
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
@@ -22,10 +23,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-tw&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Develpoer-tw's Github Stats">
 
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</br></br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-tw&bg_color=3f4f88&color=f3ecf2&line=ffffff&point=25b65d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br></br>
 
 ---
 
