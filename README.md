@@ -1,19 +1,18 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://github.com/user-attachments/assets/0d0fb5fb-6cd4-4db1-871b-4226ad6c389d" alt="Welcome!" width="800"/>
+![Welcome](https://github.com/user-attachments/assets/0d0fb5fb-6cd4-4db1-871b-4226ad6c389d)
 
 </div>
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+## You have finally discovered my Github profile. <br>
+### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+### Ask me anything <a href="https://github.com/developer-tw/developer-tw/issues/new"><b>here</b></a> or <a href="mailto:sanya@sanyaceo.com"><b>email</b></a> me.<br>
 
 <i>Happy Coding!</i> 😊
 
@@ -31,7 +30,6 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 ---
 
 <i>Follow me around the web:</i><br>
-
 <a href="https://www.linkedin.com/in/ethan-wu-49447ba8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ethan_wu118" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://sanyaceo.com" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
