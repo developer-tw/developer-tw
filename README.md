@@ -1,15 +1,7 @@
+<img alt="profile views" align="right" src="https://komarev.com/ghpvc/?username=developer-tw&color=yellow">
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
-</div>
-
-<div align="center" width="50">
-
-<img src="https://github.com/user-attachments/assets/0d0fb5fb-6cd4-4db1-871b-4226ad6c389d" alt="Welcome!" width="300"/>
-
-</div>
-
-<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://blob.cat/emoji/custom/blobcats/blobcatmeltwave.gif" width="20px" height="20px"></h2>
 
 ## You have finally discovered my Github profile. <br>
 ### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
